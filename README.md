@@ -20,7 +20,7 @@ const leniglo = {
       php: ['laravel (⚡️)', 'homemade'],
       javascript: ['node', 'express', 'adonis', 'meteor (⚡️)', 'sails'],
       python: ['django', 'flask'],
-      other: ['spring boot', 'dotnet core']
+      other: ['spring boot', 'dotnet core'],
     },
     frontend: {
       mobile: ['react native', 'flutter', 'android'],
