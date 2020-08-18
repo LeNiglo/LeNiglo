@@ -35,6 +35,7 @@ const leniglo = {
     databases: {
       sql: ['mysql', 'mssql', 'sqlite', 'mariadb'],
       nosql: ['firebase', 'mongodb', 'minimongo', 'redis', 'cassandradb'],
+      other: ['graphql'],
     },
     concepts: ['ssr', 'realtime', 'pwa', 'mobile first'],
   }
