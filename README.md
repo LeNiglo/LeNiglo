@@ -24,7 +24,7 @@ const leniglo = {
     },
     frontend: {
       mobile: ['react native', 'flutter', 'android'],
-      javascript: ['react (⚡️)', 'vue', 'jquery', 'vanilla'],
+      javascript: ['vue (⚡️)', 'react', 'jquery', 'vanilla'],
     },
     devOps: {
       architecture: ['docker', 'kubernetes', 'microservices', 'kong'],
